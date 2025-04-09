@@ -1,4 +1,4 @@
-# Travlers
+# Travlers - Proyecto Beta
 
 ## 🌍 Descripción  
 Hey! ¡Hola hola! Te cuento un poco sobre mi proyecto **Travlers**. Es una plataforma web diseñada para brindar información sobre destinos turísticos. La diseñé para que todos los usuarios que ingresen cuenten con la información que necesiten, ofreciendo recomendaciones y contenido visual atractivo para los viajeros. ✈️🌎  
